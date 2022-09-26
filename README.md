@@ -1,6 +1,4 @@
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-  # 👾 @ sokungz01  --- Panurut Sirinapaisan
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at King Mongkut's University of Technology Thonburi
 - 🌱 &nbsp; Learning more about Web Development , System Infrastructure.

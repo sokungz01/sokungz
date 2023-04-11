@@ -41,8 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokungz01&theme=radical&layout=compact" />
 </a>
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=SoKuNGz01&theme=gruvbox-duo&hide_border=true)
-
 <br/>
 </div>
 
